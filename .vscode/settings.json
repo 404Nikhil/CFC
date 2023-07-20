@@ -45,6 +45,7 @@
     "deque": "cpp",
     "list": "cpp",
     "string": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "ranges": "cpp"
   }
 }
