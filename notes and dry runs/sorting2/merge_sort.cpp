@@ -54,6 +54,16 @@ for(i = low to high)
 }
 */
 
+
+/*
+TIME COMPLEXITY
+
+we are dividing array by /2 so it is log base 2 N
+lograthmic number of times the division happens 
+so the tc becomes 0(Nlog base 2 N) average case
+worst case while temp case 0(N)
+
+*/
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
