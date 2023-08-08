@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/hp/Desktop/cfc",
-      "program": "c:/Users/hp/Desktop/cfc/build/Debug/outDebug",
+      "cwd": "c:/Users/HP/CFC/cf/cf891",
+      "program": "c:/Users/HP/CFC/cf/cf891/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
