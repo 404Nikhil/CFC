@@ -46,7 +46,13 @@
     "list": "cpp",
     "string": "cpp",
     "vector": "cpp",
-    "ranges": "cpp"
+    "ranges": "cpp",
+    "array": "cpp",
+    "any": "cpp",
+    "string_view": "cpp",
+    "span": "cpp",
+    "stacktrace": "cpp",
+    "regex": "cpp"
   },
   "C_Cpp_Runner.msvcWarnings": [
     "/W4",
